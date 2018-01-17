@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/indir">
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="336dp"
+        android:layout_height="113dp"
+        android:layout_above="@+id/textView28"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="25dp"
+        android:text="@string/tunal_motorlu_ara_lar_macun_mahallesi_macun_k_me_evleri_204_cadde_no_265_06105_yenimahalle_ankara"
+        android:textColor="@android:color/background_light"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="166dp"
+        tools:text="Tunalı Motorlu Araçlar Macun Mahallesi, Macun Küme Evleri, 204. Cadde, No:265, 06105 Yenimahalle/Ankara" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView25"
+        android:layout_alignLeft="@+id/textView25"
+        android:layout_alignStart="@+id/textView25"
+        android:layout_marginBottom="26dp"
+        android:text="@string/adres"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="130dp" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView29"
+        android:layout_alignLeft="@+id/textView25"
+        android:layout_alignStart="@+id/textView25"
+        android:layout_marginBottom="18dp"
+        android:text="@string/iltel1"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="279dp" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="368dp"
+        android:layout_height="67dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="134dp"
+        android:text="@string/_90_312_354_90_60_90_312_354_97_70_info_tunali_com_tr"
+        android:textColor="@android:color/background_light"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="322dp"
+        tools:text="+90 (312) 354 90 60                                                               +90 312 354 97 70                                         info@tunali.com.tr" />
+
+</RelativeLayout>

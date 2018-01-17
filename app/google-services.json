@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "714824912681",
+    "firebase_url": "https://aractakipjson.firebaseio.com",
+    "project_id": "aractakipjson",
+    "storage_bucket": "aractakipjson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714824912681:android:330da42b0f7dcc5a",
+        "android_client_info": {
+          "package_name": "com.bengbeng.denemeson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714824912681-qkdjltkg7a0m1obu7b2gdk5l2eli1h7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqNgo2A9Tgh6ze7QV_STcWJ94K8YKR024"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
